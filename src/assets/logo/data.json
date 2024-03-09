@@ -1,0 +1,26 @@
+{
+   "bookingStops":[
+      {
+         "address":"Rufi Twin Towers, New Road Service Lane, Block 18 Gulistan-e-Johar, Karachi, Pakistan",
+         "location":{
+            "lat":24.9061754,
+            "lng":67.1376409
+         },
+         "name":"Rufi Twin Towers New Rd Service Ln"
+      },
+      {
+         "address":"TCF School Bhitiabad., Bhittai Abad Bhitaiabad Block 9 Bhittaiabad, Karachi, Pakistan",
+         "location":{
+            "lat":24.9183246,
+            "lng":67.1552782
+         },
+         "name":"W594+84C Bhittai Abad"
+      }
+   ],
+   "creditCardId":81,
+   "note":"",
+   "payWithWallet":false,
+   "promoCodeId":18,
+   "rideType":0,
+   "vehicleTypeId":11
+}
